@@ -1,6 +1,6 @@
 ---
-title: "Welcome"
-draft: true
+title: Welcome
+draft: false
 tags:
   - example-tag
 ---

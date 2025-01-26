@@ -1,6 +1,6 @@
 ---
 title: Read-me
-draft: true
+draft: false
 tags:
   - example-tag
 ---

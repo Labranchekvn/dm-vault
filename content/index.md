@@ -1,6 +1,4 @@
 ---
-title: Welcome to Quartz
+title: Labranche's D&D
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Bonjour et bienvenue sur mon site de partage de D&D!

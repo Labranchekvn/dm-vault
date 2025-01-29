@@ -1,11 +1,10 @@
 ---
-title: "Bienvenue dans: Les Vallées Divisées"
+title: Les Vallées Divisées
 ---
-Bonjour et bienvenue sur mon site de partage de D&D!
+# Bienvenue dans cette nouvelle aventure en mer!
+*Nous partons loins des noires et froides terres du seigneur Strahd pour arriver sur une île chaude et  paradisiaque dans une campagne de mer et de navire.*
 
-Ici, je vais partager ma prochaine campagne de D&D.
-J'aimerais utilise se site comme espace semi-coopératif pour offrir une expérience immersive et détaillée pour mes joueurs.
-
+*J'aimerais utilise se site comme espace semi-coopératif pour offrir une expérience immersive et détaillée pour mes joueurs.*
 
 > [!tip] Backstory
 > Faites-vous plaisirs pour votre backstory et le lore! Tout est là pour vous aider à imaginer un personnage qui fit dans la campagne!
@@ -13,7 +12,7 @@ J'aimerais utilise se site comme espace semi-coopératif pour offrir une expéri
 > PS. Tout le monde vient de l'île et pour l'instant il n'y a pas d'animosité de prévue entre les  différents clans. Des frictions oui par contre.
 
 > [!danger] Les changements
-> Tout le contenu du site peut changer à tout moment. Je vais quand même essayer de ne pas trop altéré ce qui est déjà écrit. 
+> Tout le contenu du site peut changer à tout moment. Je vais quand même essayer de ne pas trop altérer ce qui est déjà écrit. 
 > 
 > J'essayerai de rendre simple le partage des modifications majeures.
 
@@ -39,7 +38,7 @@ Volcan situé au nord-ouest de Neaffia
 
 
 
-# Un nouvel outils
+# Un nouvel outil
 *J'utilise [Obsidian](https://obsidian.md/) depuis un bon moment, mais maintenant j'utilise un outils nommé [Quartz](https://quartz.jzhao.xyz/) pour publier mes notes.*
 
 > [!warning] Spoiler

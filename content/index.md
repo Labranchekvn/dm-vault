@@ -9,7 +9,20 @@ J'aimerais utilise se site comme espace semi-coopératif pour offrir une expéri
 # Un nouveau monde
 *Pour ma future campagne, terminé les aventures publiées. C'est l'heure d'entrer dans mon monde!*
 
-[[New World]]
+## [[Les Vallées Bleues]]
+Dimension principale de la campagne.
+
+### [[l'Île de Neaffia]]
+Terre de départ des joueurs.
+
+#### [[Les Récifs Inactifs]]
+La mer calme autour de Neaffia. Endroit de rêve pour la pêche et le surf.
+
+#### [[Mont Lanitawa]]
+Volcan situé au nord-ouest de Neaffia
+
+
+
 
 # Un nouvel outils
 *J'utilise [Obsidian](https://obsidian.md/) depuis un bon moment, mais maintenant j'utilise un outils nommé [Quartz](https://quartz.jzhao.xyz/) pour publier mes notes.*

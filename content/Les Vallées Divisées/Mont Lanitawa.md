@@ -4,7 +4,7 @@ draft: false
 tags:
   - Region
 ---
-Cet énorme volcan d'environs 3km de haut se trouve au nord-ouest de [[l'Île de Neaffia]].
+Cet énorme volcan d'environs 3km de haut se trouve au nord-ouest de [[l'Île de Neffia]].
 
 Le volcan est endormis, mais de la fumée se fait parfois apercevoir sortant de sa bouche.
 

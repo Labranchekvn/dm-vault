@@ -1,10 +1,10 @@
 ---
-title: Les Vallées Divisées
+title: Les Terres Submergées
 ---
 # Bienvenue dans cette nouvelle aventure en mer!
-*Nous partons loins des noires et froides terres du seigneur Strahd pour arriver sur une île chaude et  paradisiaque dans une campagne de mer et de navire.*
+*Nous partons loins des noires et froides terres du seigneur Strahd pour arriver sur une île chaude et  paradisiaque.*
 
-*J'aimerais utilise se site comme espace semi-coopératif pour offrir une expérience immersive et détaillée pour mes joueurs.*
+*J'aimerais utiliser se site comme espace semi-coopératif pour vous offrir une expérience immersive et détaillée.*
 
 > [!tip] Backstory
 > Faites-vous plaisirs pour votre backstory et le lore! Tout est là pour vous aider à imaginer un personnage qui fit dans la campagne!
@@ -20,21 +20,24 @@ title: Les Vallées Divisées
 > Vous ne pourrez pas modifier directement le site, mais si jamais vous voulez avoir plus de détails sur un emplacement ou ajouter des détails, vous pouvez me contacter n'importe quand!
 
 
-# Un nouveau monde
-*Pour ma future campagne, terminé les aventures publiées. C'est l'heure d'entrer dans mon monde!*
+# Une nouvelle campagne
+## [[Infos de Campagne]]
+Informations générales concernant des points clés du character building dans la campagne. 
 
-## [[Les Vallées Divisées]]
+
+# Un nouveau monde
+## [[Les Terres Submergées]]
 Dimension principale de la campagne.
 
-### [[l'Île de Neaffia]]
+### [[l'Île de Neffia]]
 Terre de départ des joueurs.
 
 #### [[Les Récifs Inactifs]]
-La mer calme autour de Neaffia. Endroit de rêve pour la pêche et le surf.
+La mer calme autour de Neffia. Endroit de rêve pour la pêche et le surf.
 ##### [[Les Grandes Pointes]]
 
 #### [[Mont Lanitawa]]
-Volcan situé au nord-ouest de Neaffia
+Volcan situé au nord-ouest de Neffia
 
 
 
